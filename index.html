@@ -12,6 +12,30 @@
 FB.login(function(response) {
    // handle the response
  }, {scope: 'user_groups'});
+
+FB.api("/2204853456/feed?limit=100"
+    ,
+    function (response) {
+      if (response && !response.error) {
+         for (i=0;i< response.data.length;i++) {
+             if(response.data[i].hasOwnProperty('object_id')) {
+                    FB.api(
+    "/"+response.data[i].object_id,
+    function (response) {
+      if (response && !response.error) {
+document.getElementById("test").innerHTML+= response.embed_html;
+         console.log(response.embed_html);
+      }
+    }
+);
+            }
+        }
+        console.log(response);
+      }
+    
+  });
+
+
   };
 
   (function(d, s, id){
@@ -26,6 +50,7 @@ FB.login(function(response) {
 </script>
 </head>
 <body>
+<p id="test"></p>
 <div id="fb-root"></div>
 </body>
 </html>
