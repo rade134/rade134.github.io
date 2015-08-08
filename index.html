@@ -13,7 +13,7 @@ FB.login(function(response) {
    // handle the response
  }, {scope: 'user_groups'});
 
-FB.api("/2204853456/feed?limit=100"
+FB.api("/141199229550834/feed?limit=100"
     ,
     function (response) {
       if (response && !response.error) {
@@ -25,7 +25,9 @@ FB.api("/2204853456/feed?limit=100"
       if (response && !response.error) {
 document.getElementById("test").innerHTML+= response.embed_html;
          console.log(response.embed_html);
-      }
+      }else{
+	console.log("Failed getting object id");
+	}
     }
 );
             }
