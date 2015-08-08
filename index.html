@@ -3,30 +3,25 @@
 <head>
 <title>Tricking Video Feed</title>
 <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '691378897673821',
+      xfbml      : true,
+      version    : 'v2.4'
+    });
+  };
 
-window.fbAsyncInit = function () {
-  FB.init({
-    appId: '691378897673821',
-    status: true,
-    cookie: true,
-    xfbml: true
-  });
-};
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
 
-(function (doc) {
-  var js;
-  var id = 'facebook-jssdk';
-  var ref = doc.getElementsByTagName('script')[0];
-  if (doc.getElementById(id)) {
-    return;
-  }
-  js = doc.createElement('script');
-  js.id = id;
-  js.async = true;
-  js.src = "http://connect.facebook.net/en_US/all.js";
-  ref.parentNode.insertBefore(js, ref);
-}(document));
-
+FB.login(function(response) {
+   // handle the response
+ }, {scope: 'user_groups'});
 </script>
 </head>
 <body>
