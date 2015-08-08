@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Tricking Video Feed</title>
+<script>
+
+window.fbAsyncInit = function () {
+  FB.init({
+    appId: '691378897673821',
+    status: true,
+    cookie: true,
+    xfbml: true
+  });
+};
+
+(function (doc) {
+  var js;
+  var id = 'facebook-jssdk';
+  var ref = doc.getElementsByTagName('script')[0];
+  if (doc.getElementById(id)) {
+    return;
+  }
+  js = doc.createElement('script');
+  js.id = id;
+  js.async = true;
+  js.src = "http://connect.facebook.net/en_US/all.js";
+  ref.parentNode.insertBefore(js, ref);
+}(document));
+
+</script>
+</head>
+<body>
+<div id="fb-root"></div>
+</body>
+</html>
