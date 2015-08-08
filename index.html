@@ -17,11 +17,12 @@
      js = d.createElement(s); js.id = id;
      js.src = "//connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-
 FB.login(function(response) {
    // handle the response
  }, {scope: 'user_groups'});
+   }(document, 'script', 'facebook-jssdk'));
+
+
 </script>
 </head>
 <body>
