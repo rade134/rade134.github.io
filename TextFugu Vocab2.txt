@@ -1,0 +1,299 @@
+二人	Two People, Pair	二人[ふたり]	[sound:10-futari.mp3]	kanjivocab kanjivocab1-1
+九	Nine	九[きゅう / く]	[sound:6-kyuu.mp3]	kanjivocab kanjivocab1-1
+二つ	Two (Things)	二[ふた]つ	[sound:9-futatsu.mp3]	kanjivocab kanjivocab1-1
+七	Seven	七[しち / なな]	[sound:4-shichi.mp3]	kanjivocab kanjivocab1-1
+じてんしゃ	Bicycle	じてんしゃ	[sound:7-jitensha.mp3]	basicnouns basicnouns001
+りんご	Apple	りんご	[sound:9-ringo.mp3]	basicnouns basicnouns001
+しんぶん	Newspaper	しんぶん	[sound:10-shinbun.mp3]	basicnouns basicnouns001
+一人	One Person	一人[ひとり]	[sound:3-hitori.mp3]	kanjivocab kanjivocab1-1
+ともだち	Friend	ともだち	[sound:1-tomodachi.mp3]	basicnouns basicnouns001
+みず	Water	みず	[sound:2-mizu.mp3]	basicnouns basicnouns001
+でんしゃ	Train	でんしゃ	[sound:3-densha.mp3]	basicnouns basicnouns001
+せんせい	Teacher	せんせい	[sound:2-sensei.mp3]	basicnouns basicnouns001
+ねこ	Cat	ねこ	[sound:5-neko.mp3]	basicnouns basicnouns001
+いぬ	Dog	いぬ	[sound:6-inu.mp3]	basicnouns basicnouns001
+くるま	Car	くるま	[sound:8-kuruma.mp3]	basicnouns basicnouns001
+一	One	一[いち]	[sound:1-ichi.mp3]	kanjivocab kanjivocab1-1
+一つ	One Thing	一[ひと]つ	[sound:74-hitotsu.mp3]	kanjivocab kanjivocab1-1
+七つ	Seven (Things)	七[なな]つ	[sound:nanatsu.mp3]	kanjivocab kanjivocab1-1
+九つ	Nine (Things)	九[ここの]つ	[sound:kokonotsu.mp3]	kanjivocab kanjivocab1-1
+二	Two	二[に]	[sound:3-ni.mp3]	kanjivocab kanjivocab1-1
+ちかてつ	Subway	ちかてつ	[sound:13-chikatetsu.mp3]	basicnouns basicnouns002
+おてあらい	Restroom (Polite)	おてあらい	[sound:14-otearai.mp3]	basicnouns basicnouns002
+つくえ	Desk	つくえ	[sound:16-tsukue.mp3]	basicnouns basicnouns002
+人	Person	人[ひと]	[sound:10-hito.mp3]	kanjivocab kanjivocab2-1
+入る	Enter	入[はい]る	[sound:16-hairu.mp3]	kanjivocab kanjivocab2-1
+しお	Salt	しお	[sound:15-shio.mp3]	basicnouns basicnouns002
+さとう	Sugar	さとう	[sound:17-satou.mp3]	basicnouns basicnouns002
+はこ	Box	はこ	[sound:18-hako.mp3]	basicnouns basicnouns002
+こども	Child	こども	[sound:20-kodomo.mp3]	basicnouns basicnouns002
+力	Power	力[ちから]	[sound:15-chikara.mp3]	kanjivocab kanjivocab2-1
+こうえん	Park	こうえん	[sound:11-kouen.mp3]	basicnouns basicnouns002
+しゃしん	Picture	しゃしん	[sound:19-shashin.mp3]	basicnouns basicnouns002
+じしょ	Dictionary	じしょ	[sound:12-jisho.mp3]	basicnouns basicnouns002
+フランス人	French Person	ふらんす 人[じん]	[sound:13-furansujin.mp3]	kanjivocab kanjivocab2-1
+八	Eight	八[はち]	[sound:12-hachi.mp3]	kanjivocab kanjivocab2-1
+八つ	Eight (Things)	八[やっ]つ	[sound:xx-yattsu.mp3]	kanjivocab kanjivocab2-1
+入れる	Insert	入[い]れる	[sound:15-ireru.mp3]	kanjivocab kanjivocab2-1
+あめ	Rain	あめ	[sound:21-ame.mp3]	basicnouns basicnouns003
+ゆき	Snow	ゆき	[sound:22-yuki.mp3]	basicnouns basicnouns003
+十	Ten	十[じゅう]	[sound:9-juu.mp3]	kanjivocab kanjivocab2-2
+又	Again	又[また]	[sound:1-mata.mp3]	kanjivocab kanjivocab2-2
+なつ	Summer	なつ	[sound:23-natsu.mp3]	basicnouns basicnouns003
+ふゆ	Winter	ふゆ	[sound:5-fuyu.mp3]	basicnouns basicnouns003
+あき	Fall/Autumn	あき	[sound:25-aki.mp3]	basicnouns basicnouns003
+はる	Spring	はる	[sound:26-haru.mp3]	basicnouns basicnouns003
+きょうかしょ	Textbook	きょうかしょ	[sound:27-kyoukasho.mp3]	basicnouns basicnouns003
+しごと	Work/Job	しごと	[sound:5-shigoto.mp3]	basicnouns basicnouns003
+くすり	Medicine	くすり	[sound:29-kusuri.mp3]	basicnouns basicnouns003
+びょういん	Hospital	びょういん	[sound:30-byouin.mp3]	basicnouns basicnouns003
+刀	Sword (Katana)	刀[かたな]	[sound:1-katana.mp3]	kanjivocab kanjivocab2-2
+わたし	I (Neutral/Formal)	わたし	[sound:1-watashi.mp3]	identity
+わたくし	I (Very Formal, Feminine)	わたくし	[sound:2-watakushi.mp3]	identity
+あたし	I (Girly, Informal)	あたし	[sound:3-atashi.mp3]	identity
+ぼく	I (Dude-like, Informal)	ぼく	[sound:33-boku.mp3]	identity
+おれ	I (Dude-like, Informal)	おれ	[sound:5-ore.mp3]	identity
+じぶん	I (Militaristic)	じぶん	[sound:7-jibun.mp3]	identity
+あなた	You (Neutral)	あなた	[sound:36-anata.mp3]	identity
+おまえ	You (Informal)	おまえ	[sound:73-omae.mp3]	identity
+きみ	You (Affectionate, Close)	きみ	[sound:9-kimi.mp3]	identity
+てまえ	You (Old Fashioned, Rude, Lit. &quot;This Side&quot;)	てまえ	[sound:10-temae.mp3]	identity
+いしゃ	Doctor	いしゃ	[sound:isha.mp3]	occupations
+しょうがくせい	Elementary School Student	しょうがくせい	[sound:shougakusei.mp3]	occupations
+ちゅうがくせい	Middle School Student	ちゅうがくせい	[sound:chuugakusei.mp3]	occupations
+あかちゃん	Baby	あかちゃん	[sound:akachan.mp3]	occupations
+さっか	Author	さっか	[sound:sakka.mp3]	occupations
+かしゅ	Singer	かしゅ	[sound:kashu.mp3]	occupations
+こうこうせい	High School Student	こうこうせい	[sound:koukousei.mp3]	occupations
+うんてんしゅ	Driver	うんてんしゅ	[sound:untenshuu.mp3]	occupations
+せいじか	Politician	せいじか	[sound:seijika.mp3]	occupations
+けいさつかん	Police Officer	けいさつかん	[sound:keisatsukan.mp3]	occupations
+べんごし	Lawyer	べんごし	[sound:bengoshi.mp3]	occupations
+かいしゃいん	Company Employee	かいしゃいん	[sound:kaishain.mp3]	occupations
+くうこう	Airport	くうこう	[sound:31-kuukou.mp3]	basicnouns basicnouns004
+ひこうき	Airplane	ひこうき	[sound:6-hikouki.mp3]	basicnouns basicnouns004
+たてもの	building, structure	たてもの	[sound:33-tatemono.mp3]	basicnouns basicnouns004
+とり	bird	とり	[sound:34-tori.mp3]	basicnouns basicnouns004
+さかな	Fish	さかな	[sound:35-sakana.mp3]	basicnouns basicnouns004
+にく	Meat	にく	[sound:25-niku.mp3]	basicnouns basicnouns004
+やさい	vegetables	やさい	[sound:37-yasai.mp3]	basicnouns basicnouns004
+がくせい	student	がくせい	[sound:38-gakusei.mp3]	basicnouns basicnouns004
+かぞく	Family	かぞく	[sound:39-kazoku.mp3]	basicnouns basicnouns004
+あたま	Head	あたま	[sound:41-atama.mp3]	basicnouns basicnouns005
+からだ	Body	からだ	[sound:42-karada.mp3]	basicnouns basicnouns005
+あさごはん	Breakfast	あさごはん	[sound:43-asagohan.mp3]	basicnouns basicnouns005
+にほん	Japan	にほん	[sound:44-nihon.mp3]	basicnouns basicnouns005
+でんわ	Telephone	でんわ	[sound:45-denwa.mp3]	basicnouns basicnouns005
+めがね	Glasses	めがね	[sound:46-megane.mp3]	basicnouns basicnouns005
+えんぴつ	Pencil	えんぴつ	[sound:47-enpitsu.mp3]	basicnouns basicnouns005
+たべもの	Food	たべもの	[sound:48-tabemono.mp3]	basicnouns basicnouns005
+いす	Chair	いす	[sound:49-isu.mp3]	basicnouns basicnouns005
+のみもの	Beverage, Drink	のみもの	[sound:50-nomimono.mp3]	basicnouns basicnouns005
+三	Three	三[さん]	[sound:3-san.mp3]	kanjivocab kanjivocab3-1
+三つ	Three (Things)	三[みっ]つ	[sound:7-mittsu.mp3]	kanjivocab kanjivocab3-1
+三人	さんにん	三[さん]人[にん]	[sound:1-sannin.mp3]	kanjivocab kanjivocab3-1
+上	Up, Above	上[うえ]	[sound:1-ue.mp3]	kanjivocab kanjivocab3-1
+上げる	To Raise (Something)	上[あ]げる	[sound:1-ageru.mp3]	kanjivocab kanjivocab3-1
+上がる	To Rise	上[あ]がる	[sound:1-agaru.mp3]	kanjivocab kanjivocab3-1
+上る	To Climb	上[のぼ]る	[sound:1-noboru.mp3]	kanjivocab kanjivocab3-1
+下	Below, Under, Down	下[した]	[sound:1-shita.mp3]	kanjivocab kanjivocab3-1
+下がる	To Come Down	下[さ]がる	[sound:1-sagaru.mp3]	kanjivocab kanjivocab3-1
+＿＿下さい	Please ____	＿＿ 下[くだ]さい	[sound:1-kudasai.mp3]	kanjivocab kanjivocab3-1
+千	Thousand	千[せん]	[sound:3-sen.mp3]	kanjivocab kanjivocab3-1
+一千	One Thousand	一[いっ]千[せん]	[sound:3-issen.mp3]	kanjivocab kanjivocab3-1
+口	Mouth	口[くち]	[sound:3-kuchi.mp3]	kanjivocab kanjivocab3-1
+入り口	Entrance	入り口[いりぐち]	[sound:3-iriguchi.mp3]	kanjivocab kanjivocab3-1
+人口	Population	人口[じんこう]	[sound:3-jinkou.mp3]	kanjivocab kanjivocab3-1
+ご	Five	ご	[sound:1-go.mp3]	numbers1
+し or よん	Four	し or よん	[sound:5-shi.mp3]	numbers1
+ひゃく	100	ひゃく	[sound:4-hyaku.mp3]	numbers1
+きゅう or く	9	きゅう or く	[sound:8-kyuu.mp3]	numbers1
+ろく	Six	ろく	[sound:3-roku.mp3]	numbers1
+まん	10,000	まん	[sound:13-man.mp3]	numbers1
+土	Earth, Soild, Ground	土[つち]	[sound:3-tsuchi.mp3]	kanjivocab kanjivocab3-2
+夕べ	Evening	夕[ゆう]べ	[sound:3-yuube.mp3]	kanjivocab kanjivocab3-2
+大きい	Big, Large	大[おお]きい	[sound:3-ohkii.mp3]	kanjivocab kanjivocab3-2
+大きさ	Size	大[おお]きさ	[sound:3-ohkisa.mp3]	kanjivocab kanjivocab3-2
+大した	Considerable, Great	大[たい]した	[sound:3-taishita.mp3]	kanjivocab kanjivocab3-2
+大人	Adult	大人[おとな]	[sound:3-otona.mp3]	kanjivocab kanjivocab3-2
+女	Woman	女[おんな]	[sound:3-onna.mp3]	kanjivocab kanjivocab3-2
+女の子	Girl	女の子[おんなのこ]	[sound:3-onnanoko.mp3]	kanjivocab kanjivocab3-2
+子	Kid, Child	子[こ]	[sound:3-ko.mp3]	kanjivocab kanjivocab3-2
+女子	Girl	女子[じょし]	[sound:3-jyoshi.mp3]	kanjivocab kanjivocab3-2
+おとうさん	Father	おとうさん	[sound:1-otousan.mp3]	family
+おかあさん	Mother	おかあさん	[sound:2-okaasan.mp3]	family
+おにいさん	Older Brother	おにいさん	[sound:3-oniisan.mp3]	family
+おねえさん	Older Sister	おねえさん	[sound:4-oneesan.mp3]	family
+おとうとさん	Younger Brother	おとうとさん	[sound:5-otoutosan.mp3]	family
+いもうとさん	Younger Sister	いもうとさん	[sound:6-imoutosan.mp3]	family
+おじいさん	Grandpa	おじいさん	[sound:7-ojiisan.mp3]	family
+おばあさん	[sound:8-obaasan.mp3]	おばあさん	Grandma	family
+むすこさん	Son	むすこさん	[sound:11-musukosan.mp3]	family
+おじょうさん	Daughter	おじょうさん	[sound:12-ojousan.mp3]	family
+ちち	(Speaker's) Dad (Casual)	ちち	[sound:13-chichi.mp3]	family
+はは	(Speaker's) Mother (Casual)	はは	[sound:14-haha.mp3]	family
+小さい	Small, Little	小[ちい]さい	[sound:3-chiisai.mp3]	kanjivocab kanjivocab3-3
+山	Mountain	山[やま]	[sound:3-yama.mp3]	kanjivocab kanjivocab3-3
+川	River	川[かわ]	[sound:3-kawa.mp3]	kanjivocab kanjivocab3-3
+川下	Downriver	川下[かわしも]	[sound:3-kawashimo.mp3]	kanjivocab kanjivocab3-3
+川口	River Mouth	川口[かわぐち]	[sound:3-kawaguchi.mp3]	kanjivocab kanjivocab3-3
+万	10,000	万[まん]	[sound:1-man.mp3]	kanjivocab kanjivocab3-3
+一万	(One) Ten Thousand	一 万[まん]	[sound:1-ichiman.mp3]	kanjivocab kanjivocab3-3
+二万	20,000	二 万[まん]	[sound:1-niman.mp3]	kanjivocab kanjivocab3-3
+十万	100,000	十[じゅう]万[まん]	[sound:3-juuman.mp3]	kanjivocab kanjivocab3-3
+丸	Circle	丸[まる]	[sound:1-maru.mp3]	kanjivocab kanjivocab3-3
+丸い	Round, Circular	丸[まる]い	[sound:1-marui.mp3]	kanjivocab kanjivocab3-3
+〜才	~ Years Old	〜 才[さい]	[sound:3-sai.mp3]	kanjivocab3-4
+久しい	Long Time	久[ひさ]しい	[sound:3-hisashii.mp3]	kanjivocab3-4
+久しぶり	Long Time No See	久[ひさ]しぶり	[sound:3-hisashiburi.mp3]	kanjivocab3-4
+亡くなる	To Die (Polite)	亡[な]くなる	[sound:3-nakunaru.mp3]	kanjivocab3-4
+すき	To Like	すき	[sound:6-suki.mp3]	suki
+大すき	Really Like	大[だい]すき	[sound:6-daisuki.mp3]	suki
+Beverage/Drink	のみもの	
+Train	でんしゃ	
+two	二	
+friend	ともだち	
+bird	とり	
+Restroom/Bathroom	おてあらい	
+Middle School Student	ちゅうがくせい	
+author/writer	さっか	
+again	又	
+Sugar	さとう	
+Person	人	
+medicine	くすり	
+dog	犬	
+chair	いす	
+evening	夕べ	
+to climb	上る	
+to insert	入れる	
+student	がくせい	
+population	人口	
+to hang down / to come down　（someone else doing it)	下がる	
+bicycle	じてんしゃ	
+１０，０００	万	
+to rise　（something else)	上がる	
+I （Militaristic)	じぶん	
+I (feminine、very formal)	わたくし	
+Politician	せいじか	
+water	水	
+I (girly, informal)	あたし	
+child、kid	子	
+please	下さい	
+Building, structure	たてもの	
+You (neutral)	あなた	
+Winter	ふゆ	
+to enter	入る	
+cat	ねこ	
+Alone / One PersonAlone / One Person	一人	
+Apple	りんご	
+Company Employee	かいしゃいん	
+Dictionary	じしょ	
+Six	六	
+Pencil	えんぴつ	
+Police officer	けいさつかん	
+ten	十	
+Park	こうえん	
+Japan	日本	
+rain	あめ	
+Considerable, Great	大した	
+Child ( polite )	子ども	
+teacher	せんせい	
+telephone	でんわ	
+Elementary school student	しょうがくせい	
+I (Dude-like, Informal、big dude one)	ぼく	
+two people, pair	二人	
+Spring	はる	
+subway	ちかてつ	
+three	三	
+meat	にく	
+airport	くうこう	
+eight	八	
+one	一	
+big, large	大きい	
+five	五	
+thousand	千	
+woman	女	
+Box	はこ	
+one thing	一つ	
+newspaper	しんぶん	
+body	からだ	
+autumn	あき	
+snow	ゆき	
+seven things	七つ	
+young lady ( girl)	女の子	
+girl ( not as polite)	女子	
+food	たべもの	
+family	かぞく	
+singer	かしゅ	
+baby	あかちゃん	
+picture	しゃしん	
+desk	つくえ	
+seven	七	
+river	川	
+mother	おかあさん	
+head	あたま	
+work/job	しごと	
+summer	なつ	
+eight things	八つ	
+grandpa	おじいさん	
+younger sister	いもうとさん	
+older brother	お兄さん	
+hundred / 100	ひゃく	
+vegetable	やさい	
+fish	さかな	
+I ( neutral)	わたし	
+hospital	びょういん	
+power	力	
+nine	九	
+one (ten thousand)	一万	
+dad ( casual)	ちち	
+older sister	おねえさん	
+３ &nbsp;people	三人	
+３ things	三つ	
+lawyer	べんごし	
+You (informal, kinda rude)	おまえ	
+nine things	九つ	
+car	くるま	
+soil	土	
+one thousand	一千	
+driver	うんてんしゅ	
+doctor	いしゃ	
+you (old fashioned, rude)	てまえ	
+I (dude-like, informal)	おれ	
+textbook	きょうかしょ	
+really like, love	だいすき	
+to like	好き	
+100, 000	十万	
+20 , 000	二万	
+ten thousand	万	
+river mouth	川口	
+downriver	川下	
+small, little	小さい	
+mother ( casual )	はは	
+grandmother	おばあさん	
+adult	大人	
+four	四	
+up	上	
+glasses	めがね	
+airplane	ひこうき	
+high school student	こうこうせい	
+You ( affectionate, close)	きみ	
+salt	しお	
+two things	二つ	
+to die ( polite )&nbsp;	亡くなる	
+long time no see	久しぶり	
+long time	久しい	
+years old	さい	
+Round, Circular	丸い	
+Circle	丸	
+mountain	山	
+daughter	おじょうさん	
+son	むすこさん	
+younger brother	おとうとさん	
+father	おとうさん	
+size	大きさ	
+entrance	入り口	
+mouth	口	
+below	下	
+to raise (I'm doing it)	上げる	
+sword (katana)	刀	
