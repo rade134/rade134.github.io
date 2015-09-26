@@ -1,58 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Tricking Video Feed</title>
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '691378897673821',
-      xfbml      : true,
-      version    : 'v2.4'
-    });
-FB.login(function(response) {
-   // handle the response
- }, {scope: 'user_groups'});
-
-FB.api("/141199229550834/feed?limit=100"
-    ,
-    function (response) {
-      if (response && !response.error) {
-         for (i=0;i< response.data.length;i++) {
-             if(response.data[i].hasOwnProperty('object_id')) {
-                    FB.api(
-    "/"+response.data[i].object_id,
-    function (response) {
-      if (response && !response.error) {
-document.getElementById("test").innerHTML+= response.embed_html;
-         console.log(response.embed_html);
-      }else{
-	console.log("Failed getting object id");
-	}
-    }
-);
-            }
-        }
-        console.log(response);
-      }
-    
-  });
-
-
-  };
-
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "//connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-
-
-</script>
+<title>Audio Clicks</title>
+<link rel="stylesheet" type="text/css" href="index.css">
+<script src="jquery-1.11.3.min.js"></script>
+<script src="audio.js"></script>
 </head>
 <body>
-<p id="test"></p>
-<div id="fb-root"></div>
+<ul>
+</ul>
 </body>
 </html>

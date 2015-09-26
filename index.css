@@ -1,0 +1,13 @@
+li {
+	background-color:#3f7fe9;
+	color:#fff;
+	display: inline;
+	margin-right: 7px;
+	line-height: 43px;
+	font-size: 150%;
+	font-family: Meiryo, 'Hiragino Kaku Gothic Pro', 'ƒqƒ‰ƒMƒmŠpƒS Pro W3', ƒƒCƒŠƒI, Osaka, 'MS PGothic', '‚l‚r ‚oƒSƒVƒbƒN', sans-serif;
+}
+
+li:hover {
+	background-color:#bf2abf;
+}
