@@ -83,7 +83,7 @@
 		var xhttp = new XMLHttpRequest();
 		xhttp.onreadystatechange = function() {
 			if ( xhttp.readyState == 4 && xhttp.status == 200) {
-				var x=$("#caseReport")[0].innerHTML.split("\n")[1].replace(new RegExp(': .', 'g'), ':').split(':');
+				var x=xhttp.responseText.split("\n")[1].replace(new RegExp(': .', 'g'), ':').split(':');
 				x = x[x.length-1];
 				document.getElementById("caseReport").innerHTML = x;
 			}	
