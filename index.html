@@ -10,6 +10,7 @@
 <body>
 <div id="dicomImage" style="width:512px;height:512px;top:0px;left:0px; position:absolute">
 </div> 
+<div id="caseReport"></div>
 
 <!-- jquery - currently a dependency and thus required for using cornerstoneWADOImageLoader -->
 <script src="./index_files/jquery.min.js"></script>
@@ -71,6 +72,15 @@
         }*/
     }
 
+	function loadDocument() {
+		xhttp.onreadystatechange = function() {
+			if ( xhttp.readyState == 4 && xhttp.status == 200) {
+				document.getElementById("caseReport").innerHTML = xhttp.responseText;
+			}	
+		};
+		xhttp.open("GET","nlp_datafake.csv",true);
+		xhttp.send();
+	}
     function downloadAndView()
     {
         var url = "http://rade134.github.io/IM-0239-0012.dcm";
@@ -87,6 +97,7 @@
         var element = $('#dicomImage').get(0);
         cornerstone.enable(element);
 	downloadAndView();
+	loadDocument();
     });
 
 </script>
