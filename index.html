@@ -73,12 +73,13 @@
     }
 
 	function loadDocument() {
+		var xhttp = new XMLHttpRequest();
 		xhttp.onreadystatechange = function() {
 			if ( xhttp.readyState == 4 && xhttp.status == 200) {
 				document.getElementById("caseReport").innerHTML = xhttp.responseText;
 			}	
 		};
-		xhttp.open("GET","nlp_datafake.csv",true);
+		xhttp.open("GET","http://rade134.github.io/nlp_datafake.csv",true);
 		xhttp.send();
 	}
     function downloadAndView()
