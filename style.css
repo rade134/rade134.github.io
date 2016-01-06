@@ -21,7 +21,7 @@
   user-select:none;
 }
 #inputBox {
-  padding:6px 12px 30px 12px;
+  height:inherit;
   margin-top:0px;
   margin-bottom:10px;
   overflow:hidden;
